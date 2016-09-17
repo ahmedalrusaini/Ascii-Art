@@ -1,0 +1,28 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\bin\Debug\Study.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\bin\Debug\Study.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\bin\Debug\Study.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Study\Study\obj\Debug\Study.pdb
+D:\1월24일 백업\Study\Study\bin\Debug\Study.exe.config
+D:\1월24일 백업\Study\Study\obj\Debug\Study.exe
+D:\1월24일 백업\Study\Study\obj\Debug\Study.pdb
+D:\1월24일 백업\Study\Study\bin\Debug\Study.exe
+D:\1월24일 백업\Study\Study\bin\Debug\Study.pdb
+D:\1월24일 백업\Study\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+D:\1월24일 백업\Study\Study\obj\Debug\MainWindow.g.cs
+D:\1월24일 백업\Study\Study\obj\Debug\App.g.cs
+D:\1월24일 백업\Study\Study\obj\Debug\Study_MarkupCompile.cache
+D:\1월24일 백업\Study\Study\obj\Debug\Study_MarkupCompile.lref
+D:\1월24일 백업\Study\Study\obj\Debug\MainWindow.baml
+D:\1월24일 백업\Study\Study\obj\Debug\Study.g.resources
+D:\1월24일 백업\Study\Study\obj\Debug\Study.Properties.Resources.resources
+D:\1월24일 백업\Study\Study\obj\Debug\Study.csproj.GenerateResource.Cache

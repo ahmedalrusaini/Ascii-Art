@@ -1,0 +1,17 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\bin\Release\Study.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\bin\Release\Study.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\bin\Release\Study.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\App.g.cs
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study_MarkupCompile.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study_MarkupCompile.lref
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\MainWindow.baml
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study.g.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\Study\Study\obj\Release\Study.pdb
+D:\1월24일 백업\Study\Study\bin\Release\Study.exe.config
+D:\1월24일 백업\Study\Study\obj\Release\Study.exe
+D:\1월24일 백업\Study\Study\obj\Release\Study.pdb

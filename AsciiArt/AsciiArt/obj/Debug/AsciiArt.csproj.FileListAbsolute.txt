@@ -1,0 +1,30 @@
+D:\1월24일 백업\Study\Study\bin\Debug\Study.exe.config
+D:\1월24일 백업\Study\Study\obj\Debug\Study.exe
+D:\1월24일 백업\Study\Study\obj\Debug\Study.pdb
+D:\1월24일 백업\Study\Study\bin\Debug\Study.exe
+D:\1월24일 백업\Study\Study\bin\Debug\Study.pdb
+D:\1월24일 백업\Study\Study\obj\Debug\MainWindow.g.cs
+D:\1월24일 백업\Study\Study\obj\Debug\App.g.cs
+D:\1월24일 백업\Study\Study\obj\Debug\Study_MarkupCompile.cache
+D:\1월24일 백업\Study\Study\obj\Debug\Study_MarkupCompile.lref
+D:\1월24일 백업\Study\Study\obj\Debug\MainWindow.baml
+D:\1월24일 백업\Study\Study\obj\Debug\Study.g.resources
+D:\1월24일 백업\Study\Study\obj\Debug\Study.Properties.Resources.resources
+D:\1월24일 백업\Study\Study\obj\Debug\AsciiArt.csproj.GenerateResource.Cache
+D:\1월24일 백업\AsciiArt\Study\bin\Debug\Study.exe.config
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\Study.exe
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\Study.pdb
+D:\1월24일 백업\AsciiArt\Study\bin\Debug\Study.exe
+D:\1월24일 백업\AsciiArt\Study\bin\Debug\Study.pdb
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\AsciiArt.csprojResolveAssemblyReference.cache
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\MainWindow.g.cs
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\App.g.cs
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\Study_MarkupCompile.cache
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\Study_MarkupCompile.lref
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\MainWindow.baml
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\Study.g.resources
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\Study.Properties.Resources.resources
+D:\1월24일 백업\AsciiArt\Study\obj\Debug\AsciiArt.csproj.GenerateResource.Cache
+C:\Users\Kim JaeGyeom\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\bin\Debug\Study.exe.config
+C:\Users\Kim JaeGyeom\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\obj\Debug\Study.exe
+C:\Users\Kim JaeGyeom\Documents\Visual Studio 2015\Projects\AsciiArt\AsciiArt\obj\Debug\Study.pdb
